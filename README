@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2907
+
+hlint is an haskell code source checker, producing many warnings/recommendations. This script allow to vim to parse it's output and then jumping directly to pointed locations.
+
+To use it :
+:comp hlint
